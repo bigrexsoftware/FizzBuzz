@@ -1,6 +1,6 @@
 // git init
 // git add .
-// git commit -m 'comment'
+// git commit -m "first commit"
 
-// git remote dd origin https://gitbuhb.com/bigrexsoftware/FizzBuzz.git
+// git remote add origin https://github.com/bigrexsoftware/FizzBuzz.git
 // git push -u origin master
